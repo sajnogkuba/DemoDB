@@ -1,4 +1,4 @@
-[
+employees{
   {
     "id": 1,
     "name": "John Doe",
@@ -47,4 +47,4 @@
     "position": "Sales Representative",
     "department": "Sales"
   }
-]
+}
