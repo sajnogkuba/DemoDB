@@ -1,4 +1,7 @@
 {
-  "id": 1,
-  "title": "hello"
+  "employees": [
+    { "id": 1, "name": "John Doe", "position": "Software Developer", "department": "IT" },
+    { "id": 2, "name": "Jane Smith", "position": "HR Specialist", "department": "HR" },
+    { "id": 3, "name": "Alice Johnson", "position": "Product Manager", "department": "Management" }
+  ]
 }
